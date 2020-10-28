@@ -1,4 +1,4 @@
-# Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] 👋
+# Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] :sweat_smile:
 
 ## I'm a Software Developer!
 
