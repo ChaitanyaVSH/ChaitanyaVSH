@@ -1,9 +1,12 @@
 # Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] :sweat_smile:
 
+- I hope you landed here intentionally, Let's have a quick connect.
+- Show some :heart: and keep supporting by starring the repos.
+
 ## I'm a Software Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to contribute to start-ups as a freelancer
+- I’m currently learning everything :fire: :fire: :fire:
+- I’m looking to contribute to start-ups as a freelancer :computer:
 
 ### Connect with me:
 
@@ -32,7 +35,7 @@
 <br />
 <br />
 
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
   <img align="left" alt="Chaitu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chaitanyavsh&show_icons=true&hide_border=true" />
 
@@ -41,3 +44,4 @@
 [website]: http://chaitumaverick.herokuapp.com/
 [instagram]: https://www.instagram.com/chaitu__maverick/
 [linkedin]: https://www.linkedin.com/in/kotipalli-chaitanya-977917150/
+[emojis]: https://gist.github.com/rxaviers/7360908
