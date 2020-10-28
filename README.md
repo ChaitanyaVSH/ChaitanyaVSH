@@ -1,4 +1,4 @@
-### Hi there, I'm Chaitanya - aka [Chaitu Maverick][http://chaitumaverick.herokuapp.com/] 👋
+### Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] 👋
 
 ## I'm a Software Developer!
 
