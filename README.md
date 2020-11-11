@@ -1,7 +1,7 @@
 # Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] :sweat_smile:
 
 - I hope you landed here intentionally, Let's have a quick connect.
-- Show some :heart: and keep supporting by starring the repos.
+- Show some :heart: &nbsp; and keep supporting by starring the repos.
 
 ## I'm a Software Developer!
 
