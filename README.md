@@ -8,6 +8,8 @@
 - I’m currently learning everything :fire: :fire: :fire:
 - I’m looking to contribute to start-ups as a freelancer :computer:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChaitanyaVSH)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect with me:
 
 [<img align="left" alt="chaitumaverick.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
