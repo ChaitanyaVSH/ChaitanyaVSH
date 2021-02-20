@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ChaitanyaVSH)
+
 # Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] :sweat_smile:
 
 - I hope you landed here intentionally, Let's have a quick connect.
