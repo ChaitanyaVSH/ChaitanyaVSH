@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ChaitanyaVSH)
 
-[![Website](https://img.shields.io/website?label=chaitumaverick.netlify.app/&style=for-the-badge&url=http://chaitumaverick.netlify.app/)](http://chaitumaverick.netlify.app/)
-[![Website](https://img.shields.io/website?label=create-react-11.herokuapp.com/&style=for-the-badge&url=https://create-react-11.herokuapp.com/)](https://create-react-11.herokuapp.com/)
+[![Website](https://img.shields.io/website?label=chaitumaverick.netlify.app&style=for-the-badge&url=http://chaitumaverick.netlify.app/)](http://chaitumaverick.netlify.app/)
+[![Website](https://img.shields.io/website?label=create-react-11.herokuapp.com&style=for-the-badge&url=https://create-react-11.herokuapp.com/)](https://create-react-11.herokuapp.com/)
 
 # Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] :sweat_smile:
 
