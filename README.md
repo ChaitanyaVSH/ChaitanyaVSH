@@ -45,7 +45,7 @@
 
 ## :zap: GitHub Stats
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chaitanyavsh)  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChaitanyaVSH)  
   <img align="left" alt="Chaitu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chaitanyavsh&show_icons=true&hide_border=true" />
   
   <a href="https://github.com/ChaitanyaVSH">
