@@ -8,6 +8,8 @@
 - I hope you landed here intentionally, Let's have a quick connect.
 - Show some :heart: &nbsp; and keep supporting by starring the repos.
 
+<img src="https://raw.githubusercontent.com/shivrajkumar/shivrajkumar/main/code.gif">
+
 ## I'm a Software Developer!
 
 - I’m currently learning everything :fire: :fire: :fire:
