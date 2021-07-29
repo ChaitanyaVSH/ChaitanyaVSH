@@ -9,6 +9,7 @@
 - Show some :heart: &nbsp; and keep supporting by starring the repos.
 
 <img src="https://media.giphy.com/media/IhDjGtQLzpxLETw2Jc/giphy.gif">
+<a href="https://app.daily.dev/chaitumaverick7"><img src="https://api.daily.dev/devcards/c1aaa40e02b44ea19fa87dfc23895e8e.png?r=nav" width="400" alt="Chaitu Maverick's Dev Card"/></a>
 
 ## I'm a Software Developer!
 
