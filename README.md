@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=ChaitanyaVSH)
 
 [![Website](https://img.shields.io/website?label=chaitumaverick.netlify.app&style=for-the-badge&url=http://chaitumaverick.netlify.app/)](http://chaitumaverick.netlify.app/)
