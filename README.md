@@ -12,7 +12,6 @@
 - I hope you landed here intentionally, Let's have a quick connect.
 - Show some :heart: &nbsp; and keep supporting by starring the repos.
 
-<img src="https://media.giphy.com/media/IhDjGtQLzpxLETw2Jc/giphy.gif">
 
 ## I'm a Software Developer!
 
@@ -51,12 +50,11 @@
 
 ## :zap: GitHub Stats
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChaitanyaVSH)  
-  <img align="left" alt="Chaitu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chaitanyavsh&show_icons=true&hide_border=true" />
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChaitanyaVSH)
   
   <a href="https://github.com/ChaitanyaVSH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyavsh&theme=light&hide_langs_below=0" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyavsh&theme=light&hide_langs_below=0" />
+  </a>
 
 </details>
 
