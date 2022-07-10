@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/website?label=chaitumaverick.netlify.app&style=for-the-badge&url=http://chaitumaverick.netlify.app/)](http://chaitumaverick.netlify.app/)
 [![Website](https://img.shields.io/website?label=create-react-11.herokuapp.com&style=for-the-badge&url=https://create-react-11.herokuapp.com/)](https://create-react-11.herokuapp.com/)
 
+<a href="https://app.daily.dev/chaitumaverick7"><img src="https://api.daily.dev/devcards/c1aaa40e02b44ea19fa87dfc23895e8e.png?r=tny" width="400" alt="Chaitu Maverick's Dev Card"/></a>
+
 # Hi there, I'm Chaitanya - aka [Chaitu Maverick][website] :sweat_smile:
 
 - I hope you landed here intentionally, Let's have a quick connect.
